@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta name="description" content="Html Task 2">
+      <title>Essawy CV</title>
+      <style>
+         
+      </style>      
+   </head>
+   
+   <body>
+      <h1>MOhamed Essawy</h1>
+      <img src="1.jpg" alt="MOhamed Essawy Photo" width="200" height="200"><br/><br/>
+      
+      <fieldset>
+      <legend><h2>● Overview ●</h2></legend>
+      <div>I like getting new information constantly and have a passion for knowledge, I like group spirit and help people, I have the ability to work under Stresses</div>
+      </fieldset>
+      
+      <fieldset>
+      <legend><h2>● Personal information ●</h2></legend>
+      <ul>
+         <li>Mechanical Power Engineer</li><br/>
+         <li><b>DOB: </b>26/8/1998 &nbsp;(20 Years Old)</li><br/>
+      </ul>
+      </fieldset>
+      
+      <fieldset>
+      <legend><h2>● Contact Information ●</h2></legend>
+      <ul>
+         <li><b>Phone number:</b> &nbsp; <mark>01159 743 742</mark></li><br/>
+         <li><b>Email:</b> <a href="https://www.gmail.com" target="_blank">m7mdessawy@gmail.com</a></li><br/>
+         <li><b>Address:</b> 15 El Essawy Street, Shoubra, Cairo, Egypt</li>
+      </ul>
+      &nbsp; &nbsp; &nbsp;
+      
+      <a href="https://www.facebook.com/m7mdessawy" target="_blank"><img src="facebook.png" alt="Facebook" width="40" height="40" ></a>&nbsp;
+      <a href="https://www.linkedin.com/in/m7mdessawy" target="_blank"><img src="linkedin.png" alt="linkedin" width="40" height="40"></a>
+      </fieldset>
+      
+      <fieldset>
+         <legend><h2>● Education ●</h2></legend>
+         <ul>
+            <li>Studies Mechanical Power Engineering at<a href="https://www.facebook.com/FacultyOfEngineeringHelwanUniversity.Matariabranch" target="_blank"> Faculty of Engineering-Helwan University-Mataria Branch</a></li>
+            <li>Improve English at<a href="https://www.facebook.com/MBAcademy.eg" target="_blank"> MBA.Masters</a></li>
+         </ul>
+      </fieldset>
+      
+      <fieldset>
+         <legend><h2>● Experience ●</h2></legend>
+         <ul>
+            <li>Trainee on Engine Maintenance and Structure at<a href="https://www.facebook.com/EgyptAirTrainingAcademy" target="_blank"> ‎Egyptair Training Academy</a></li>
+            <li>Web Team Member at<a href="https://www.facebook.com/IEEEBenhaUnivSB" target="_blank"> IEEE Benha University SB</a></li>
+            <li>Junior Member at<a href="https://www.facebook.com/WhitePageMSA" target="_blank"> White Page MSA</a></li>
+            <li>Volunteer at<a href="https://www.facebook.com/Resala.org" target="_blank"> Resala Charity Organization</a></li>
+            <li>SolidWorks Participant at<a href="https://www.facebook.com/4p.Team.MP" target="_blank"> 4P Team MP</a></li>
+            <li>SolidWorks Participant at<a href="https://www.facebook.com/WhitePageMSA" target="_blank"> White Page MSA</a></li>
+            <li>Kumite Coach at Karate</li>
+         </ul>
+      </fieldset>
+      
+      <fieldset>
+         <legend><h2>● Hobbies and Interests ●</h2></legend>
+         <ul>
+            <li>Playing Kumite &nbsp; (60KG)</li>
+            <li>Swimming</li>
+            <li>programming</li>
+            <li>Photography</li>
+         </ul>
+      </fieldset>
+   </body>
+</html>
